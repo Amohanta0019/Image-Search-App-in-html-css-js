@@ -22,18 +22,19 @@ A simple and responsive **Image Search App** built using **HTML**, **CSS**, and 
 - **Unsplash API** *(or any image search API)*
 
 ## 📁 Folder Structure
-image-search-app
-│
-├── index.html # Main HTML file
-├── style.css # CSS styles
-├── script.js # JavaScript logic
-└── README.md # Project documentation
+image-search-app<br>
+│<br>
+├── index.html # Main HTML file<br>
+├── style.css # CSS styles<br>
+├── script.js # JavaScript logic<br>
+└── README.md # Project documentation<br>
 
 ## 🔧 How to Use
 
 1. Clone this repository:
 
 `git clone https://github.com/your-username/image-search-app.git`
+
 2. Navigate to the project folder:
 `cd image-search-app`
 
