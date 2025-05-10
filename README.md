@@ -19,7 +19,7 @@ A simple and responsive **Image Search App** built using **HTML**, **CSS**, and 
 - **HTML5**  
 - **CSS3**  
 - **JavaScript (ES6+)**  
-- **Unsplash API** *(or any image search API)*
+- **Unsplash API** 
 
 ## 📁 Folder Structure
 image-search-app<br>
@@ -45,7 +45,7 @@ image-search-app<br>
 5. Scroll or click "Load More" to see more results.
 
 ## 🔑 API Setup
-1. Create a free account on Unsplash Developers.
+1. Create a free account on **Unsplash Developers**.
 
 2. Create a new application and get your Access Key.
 
