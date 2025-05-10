@@ -45,7 +45,7 @@ image-search-app<br>
 5. Scroll or click "Load More" to see more results.
 
 ## 🔑 API Setup
-1. Create a free account on Unsplash Developers.
+1. Create a free account on == Unsplash Developers ==.
 
 2. Create a new application and get your Access Key.
 
