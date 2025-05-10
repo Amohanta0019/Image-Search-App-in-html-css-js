@@ -22,7 +22,7 @@ A simple and responsive **Image Search App** built using **HTML**, **CSS**, and 
 - **Unsplash API** *(or any image search API)*
 
 ## 📁 Folder Structure
-image-search-app/
+image-search-app
 │
 ├── index.html # Main HTML file
 ├── style.css # CSS styles
@@ -43,14 +43,15 @@ image-search-app/
 
 5. Scroll or click "Load More" to see more results.
 
-🔑 API Setup
+## 🔑 API Setup
 1. Create a free account on Unsplash Developers.
 
 2. Create a new application and get your Access Key.
 
 3. Replace YOUR_ACCESS_KEY in script.js with your actual API key.
 `const accessKey = "YOUR_ACCESS_KEY";`
-📌 Future Improvements
+
+## 📌 Future Improvements
 - Add pagination and infinite scrolling
 
 - Allow filtering by orientation or color
@@ -59,8 +60,8 @@ image-search-app/
 
 - Add dark mode
 
-🤝 Contributing
+## 🤝 Contributing
 Contributions are welcome! If you find a bug or want to add features, feel free to fork the repo and open a pull request.
 
-📄 License
+## 📄 License
 This project is licensed under the MIT License.
