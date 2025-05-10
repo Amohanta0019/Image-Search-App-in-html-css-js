@@ -12,7 +12,7 @@ A simple and responsive **Image Search App** built using **HTML**, **CSS**, and 
 
 ## 📸 Demo
 
-[Click here to view the live demo](#) <!-- Replace with actual GitHub Pages or Netlify link -->
+[Click here to view the live demo](https://github.com/Amohanta0019/Image-Search-App-in-html-css-js/tree/main) 
 
 ## 🛠️ Technologies Used
 
@@ -45,7 +45,7 @@ image-search-app<br>
 5. Scroll or click "Load More" to see more results.
 
 ## 🔑 API Setup
-1. Create a free account on == Unsplash Developers ==.
+1. Create a free account on Unsplash Developers.
 
 2. Create a new application and get your Access Key.
 
