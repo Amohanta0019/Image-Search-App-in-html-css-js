@@ -33,10 +33,9 @@ image-search-app/
 
 1. Clone this repository:
 
-```bash
-git clone https://github.com/your-username/image-search-app.git
+`git clone https://github.com/your-username/image-search-app.git`
 2. Navigate to the project folder:
-cd image-search-app
+`cd image-search-app`
 
 3. Open index.html in your browser or use a local server like Live Server in VS Code.
 
@@ -50,7 +49,7 @@ cd image-search-app
 2. Create a new application and get your Access Key.
 
 3. Replace YOUR_ACCESS_KEY in script.js with your actual API key.
-const accessKey = "YOUR_ACCESS_KEY";
+`const accessKey = "YOUR_ACCESS_KEY";`
 📌 Future Improvements
 - Add pagination and infinite scrolling
 
